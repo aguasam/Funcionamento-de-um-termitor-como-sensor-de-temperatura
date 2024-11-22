@@ -1,0 +1,1 @@
+# Funcionamento-de-um-termitor-como-sensor-de-temperatura
