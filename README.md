@@ -45,6 +45,8 @@ O projeto utiliza um termistor conectado a uma entrada analógica do Arduino. A 
    
 2. Conecte o display LCD aos pinos digitais configurados no código (`12, 11, 5, 4, 3, 2`).
 
+![Montagem do circuito](circuito.png)
+
 ---
 
 ## 📋 **Código Principal**
